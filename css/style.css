@@ -1,0 +1,18 @@
+section {
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.droit {
+    display: flex;
+    flex-wrap: wrap;       
+}
